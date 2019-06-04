@@ -1,0 +1,77 @@
+{
+  "capitalAmount": 132210,//总资金
+  "capitalRate": 32.21,//总收益率
+  "initialCapital": 100000,//初始资金
+  "holdDays": 12,//持仓天数
+  "thisChange": 213,//当日收益
+  "lastCapital": 132111,//昨日资金
+  "thisChangeRate": 2,//当日收益率
+  "changeRate": 21,//总收益率
+  "changeAvg": 2.21,//平均收益率
+  "startDate": "2012-11-23",//开始时间
+  "exList": [//交易所数据
+    {
+      exName: '火币',//交易所名称
+      wealth: 34232,//交易所估值
+      coinList: [//币种列表
+        {
+          coinName: 'btc',//币种
+          number: 12,//数量
+          wealth: 12313//价值
+        },
+        {
+          coinName: 'btc',
+          number: 12,
+          wealth: 12313
+        },
+        {
+          coinName: 'btc',
+          number: 12,
+          wealth: 12313
+        },
+      ]
+    },
+    {
+      exName: '火币',
+      wealth: 34232,
+      coinList: [
+        {
+          coinName: 'btc',
+          number: 12,
+          wealth: 12313
+        },
+        {
+          coinName: 'btc',
+          number: 12,
+          wealth: 12313
+        },
+        {
+          coinName: 'btc',
+          number: 12,
+          wealth: 12313
+        },
+      ]
+    },
+    {
+      exName: '火币',
+      wealth: 34232,
+      coinList: [
+        {
+          coinName: 'btc',
+          number: 12,
+          wealth: 12313
+        },
+        {
+          coinName: 'btc',
+          number: 12,
+          wealth: 12313
+        },
+        {
+          coinName: 'btc',
+          number: 12,
+          wealth: 12313
+        },
+      ]
+    },
+  ]
+}
